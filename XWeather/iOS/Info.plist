@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>com.xamarin.xweather</string>
+	<string>com.wisdeom.xweather</string>
 	<key>CFBundleName</key>
 	<string>XWeather</string>
 	<key>CFBundleShortVersionString</key>
